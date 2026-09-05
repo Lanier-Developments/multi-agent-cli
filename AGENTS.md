@@ -1249,9 +1249,9 @@ updates:
 # multi-agent-cli
 
 [![PyPI](https://img.shields.io/pypi/v/multi-agent-cli.svg)](https://pypi.org/project/multi-agent-cli/)
-[![CI](https://github.com/kmcallorum/multi-agent-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/kmcallorum/multi-agent-cli/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/kmcallorum/multi-agent-cli/graph/badge.svg)](https://codecov.io/gh/kmcallorum/multi-agent-cli)
-[![Snyk Security](https://snyk.io/test/github/kmcallorum/multi-agent-cli/badge.svg)](https://snyk.io/test/github/kmcallorum/multi-agent-cli)
+[![CI](https://github.com/Lanier-Developments/multi-agent-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/Lanier-Developments/multi-agent-cli/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/Lanier-Developments/multi-agent-cli/graph/badge.svg)](https://codecov.io/gh/Lanier-Developments/multi-agent-cli)
+[![Snyk Security](https://snyk.io/test/github/Lanier-Developments/multi-agent-cli/badge.svg)](https://snyk.io/test/github/Lanier-Developments/multi-agent-cli)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
